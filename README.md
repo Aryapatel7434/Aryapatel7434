@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arya Patel</h1>
 <h3 align="center">Competitive Programmer | Software Developer | DSA Enthusiast</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Competitive+Programmer;DSA+Enthusiast;Future+Software+Engineer&center=true&width=500&height=50">
-</p>
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aryapatel7434&show_icons=true&theme=tokyonight"/>
+</p>
 ---
 
 # 🚀 About Me
