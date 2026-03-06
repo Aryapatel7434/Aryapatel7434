@@ -20,7 +20,7 @@
 
 # 🧠 Competitive Programming
 
-✔ Solved **800+ DSA Problems**  
+✔ Solved **800+ DSA Problems & Competitive Programing **  
 ✔ Participated in **50+ Coding Contests**
 
 🏆 **Codeforces Rating:** 1055  
