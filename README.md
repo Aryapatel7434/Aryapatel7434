@@ -46,6 +46,10 @@
 <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks">
 </a>
 
+<a href="https://codolio.com/profile/AKPatel">
+<img src="https://img.shields.io/badge/Codolio-blue?style=for-the-badge">
+</a>
+
 </p>
 
 ---
